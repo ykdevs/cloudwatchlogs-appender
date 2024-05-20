@@ -46,5 +46,15 @@ logs/app.log にログが出力される。
 ## References
 
 - [Java standalone app for sending logs to Amazon CloudWatch Logs with Slf4j/Logback](https://kishida58.medium.com/java-standalone-app-for-sending-logs-to-amazon-cloudwatch-logs-with-slf4j-logback-2543e35ce19a)
-- [Logback log appender for AWS CloudWatch](https://github.com/j256/cloudwatch-logback-appender)
 - [SpringBootログ出力まとめ（slf4j + logback）](https://qiita.com/Masahiro_Uemura1234/items/61a25ce4aa815a9922d6)
+- [Javaのログ出力について](https://qiita.com/kero3/items/0033adca07a585623768)
+- [Spring BootでSLF4J+logback+Lombokを使いログ出力を行う](https://www.aruse.net/entry/2022/07/09/220510)
+- [SDK for Java 2.x でのログ記録](https://docs.aws.amazon.com/ja_jp/sdk-for-java/latest/developer-guide/logging-slf4j.html)
+- [logback機能,設定まとめ](https://qiita.com/rubytomato@github/items/93770f827e46cc7e684f)
+- [Chapter 4: Logback Appenders](https://logback.qos.ch/manual/appenders.html)
+- [Chapter 5: Encoders](https://logback.qos.ch/manual/encoders.html)
+- [Logback log appender for AWS CloudWatch](https://github.com/j256/cloudwatch-logback-appender)
+- [cloudwatch-logback-appender](https://github.com/graingert/cloudwatch-logback-appender)
+- [AWS SDKs を使用した CloudWatch ログのコード例](https://docs.aws.amazon.com/ja_jp/AmazonCloudWatch/latest/logs/service_code_examples.html)
+- [AWS SDK での CloudWatch ログの使用](https://docs.aws.amazon.com/ja_jp/AmazonCloudWatch/latest/logs/sdk-general-information-section.html)
+- [PutLogEvents.java](https://github.com/awsdocs/aws-doc-sdk-examples/blob/main/javav2/example_code/cloudwatch/src/main/java/com/example/cloudwatch/PutLogEvents.java)

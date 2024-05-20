@@ -12,5 +12,6 @@ public class BatchMain implements CommandLineRunner {
   @Override
   public void run(String... args) {
     log.info("Cloud Watch Logs Appender Application Start");
+    log.warn("Cloud Watch Logs Appender Application End");
   }
 }
